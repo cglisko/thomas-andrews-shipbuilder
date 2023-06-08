@@ -6,28 +6,21 @@ permalink: /about.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+# Remember that other levels of headings can be made with more pound symbols
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/image.html objectid="image011" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## Thomas Andrews
 
-## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Thomas Andrews was a shipbuilder from Belfast. 
+Beginning his apprenticeship at Harland and Wolff as a young teenager, he quickly climbed their ranks.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+In 1909, Harland and Wolff was commissioned by the White Star Line to design three Olympic-class ships, which would later be known as the *Olympic*, the *Titanic*, and the *Britannic*. 
+Andrew usually sailed on his new ships, in order to test out their features.
+The maiden voyage of the *Titanic* was no exception to this rule.
+Andrews was one of over 1500 people who lost their lives during the *Titanic* disaster. 
+However, over 100 years later, his memory lives on as one of the most heroic men associated with the *Titanic*.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="image002" width="50" %} 
