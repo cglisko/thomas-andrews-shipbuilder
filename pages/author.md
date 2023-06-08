@@ -17,4 +17,4 @@ While my personal and academic interests have varied and changed with time, a lo
 
 This site is dedicated to the memory of Thomas Andrews, and to all the lives he touched. I truly hope that, through navigating this cite, you can also understand just why this man and his rich history speak to me.
 
-If you're interested in learning more about my academic and personal research, my website can be found [at this link](cglisko.github.io)
+If you're interested in learning more about my academic and personal research, my website can be found [at this link](https://cglisko.github.io)
