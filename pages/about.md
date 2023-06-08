@@ -13,8 +13,10 @@ credits: true
 
 ## Thomas Andrews
 
+##### "And so in his last hour we see this brave, strong, capable and lovable man displaying, not only heroism, but every quality which had exalted him in the regard of his fellows and endeared him to all who had worked and lived with him." - Horace Plunkett, in his intro to Shan Bullock's memorial text, *Thomas Andrews, Shipbuilder* (published 1912).
 
-Thomas Andrews was a shipbuilder from Belfast. 
+
+Thomas Andrews (1873-1912), was a shipbuilder from Belfast, Ireland.
 Beginning his apprenticeship at Harland and Wolff as a young teenager, he quickly climbed their ranks.
 
 In 1909, Harland and Wolff was commissioned by the White Star Line to design three Olympic-class ships, which would later be known as the *Olympic*, the *Titanic*, and the *Britannic*. 
