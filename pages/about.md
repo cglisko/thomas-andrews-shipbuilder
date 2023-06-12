@@ -19,7 +19,7 @@ credits: true
 Thomas Andrews (1873-1912), was a shipbuilder from Belfast, Ireland.
 Beginning his apprenticeship at Harland and Wolff as a young teenager, he quickly climbed their ranks.
 
-In 1909, Harland and Wolff was commissioned by the White Star Line to design three Olympic-class ships, which would later be known as the *Olympic*, the *Titanic*, and the *Britannic*. 
+In 1908, Harland and Wolff was commissioned by the White Star Line to design three Olympic-class ships, which would later be known as the *Olympic*, the *Titanic*, and the *Britannic*. 
 Andrew usually sailed on his new ships, in order to test out their features.
 The maiden voyage of the *Titanic* was no exception to this rule.
 Andrews was one of over 1500 people who lost their lives during the *Titanic* disaster. 
